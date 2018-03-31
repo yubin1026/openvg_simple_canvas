@@ -1,0 +1,23 @@
+{
+  "name": "openvg_simple_canvas",
+  "version": "0.1.0",
+  "description": "Simple Canvas implementation on OpenVG",
+  "main": "openvg_simple_canvas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yubin1026/openvg_simple_canvas.git"
+  },
+  "keywords": [
+    "canvas",
+    "openvg"
+  ],
+  "author": "yubin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yubin1026/openvg_simple_canvas/issues"
+  },
+  "homepage": "https://github.com/yubin1026/openvg_simple_canvas"
+}
